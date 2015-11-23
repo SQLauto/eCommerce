@@ -1,0 +1,14 @@
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll.config
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.pdb
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.pdb
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.pdb
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.xml
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojResolveAssemblyReference.cache
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
