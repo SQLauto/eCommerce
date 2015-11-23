@@ -1,5 +1,4 @@
-﻿
-using eCommerce.DAL.Data;
+﻿using eCommerce.DAL.Data;
 using eCommerce.Model;
 using System;
 using System.Collections.Generic;

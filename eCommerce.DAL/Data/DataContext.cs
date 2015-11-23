@@ -14,9 +14,7 @@ namespace eCommerce.DAL.Data
         /// you can either pass the NAME of a conenction string (e.g. from a web.config), and explicitly delcare it.
         /// </summary>
         public DataContext()
-            : base("DefaultConnection")
-        {
-        }
+            : base("DefaultConnection"){ }
 
         /// <summary>
         /// any entity to be persisted must me delcared here.

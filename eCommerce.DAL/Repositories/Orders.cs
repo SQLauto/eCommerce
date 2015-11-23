@@ -1,8 +1,10 @@
-﻿using System;
+﻿using eCommerce.DAL.Data;
+using eCommerce.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using eCommerce.DAL.Data;
-using eCommerce.Model;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace eCommerce.DAL.Repositories
 {
