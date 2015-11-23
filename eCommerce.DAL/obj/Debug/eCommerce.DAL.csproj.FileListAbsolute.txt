@@ -14,3 +14,4 @@ d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\
 d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
 d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.Initial.resources
 d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.GenerateResource.Cache
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.AddCostPrice.resources
