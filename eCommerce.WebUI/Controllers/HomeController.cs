@@ -1,4 +1,5 @@
 ﻿using eCommerce.DAL.Data;
+using eCommerce.DAL.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +12,10 @@ namespace eCommerce.WebUI.Controllers
     {
         public ActionResult Index()
         {
-            /* Used to test to see if access is given
-            DataContext context = new DataContext();
-             */ 
+            CustomerRepository customers = new CustomerRepository(new DataContext());
+            ProductRepository products = new ProductRepository(new DataContext());
+
+
             return View();
         }
 

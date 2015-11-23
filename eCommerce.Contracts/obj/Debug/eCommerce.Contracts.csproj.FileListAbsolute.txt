@@ -1,0 +1,5 @@
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojResolveAssemblyReference.cache
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
+d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb

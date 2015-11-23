@@ -1,16 +1,14 @@
-﻿using eCommerce.DAL.Data;
-using eCommerce.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using eCommerce.DAL.Data;
+using eCommerce.Model;
 
 namespace eCommerce.DAL.Repositories
 {
-    public class ProductRepository : RepositoryBase<Product>
+    public class Orders : RepositoryBase<Order>
     {
-        public ProductRepository(DataContext context)
+        public Orders(DataContext context)
             : base(context)
         {
             if (context == null)
