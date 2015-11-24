@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace eCommerce.Contracts.Repositories
 {
     public interface IRepositoryBase<TEntity>
