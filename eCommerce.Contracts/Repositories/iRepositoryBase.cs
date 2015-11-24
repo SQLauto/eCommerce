@@ -1,5 +1,6 @@
 ﻿using System;
-namespace eCommerce.DAL.Repositories
+
+namespace eCommerce.Contracts.Repositories
 {
     public interface IRepositoryBase<TEntity>
      where TEntity : class

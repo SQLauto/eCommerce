@@ -1,4 +1,5 @@
 ﻿using eCommerce.DAL.Data;
+using eCommerce.Contracts.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
