@@ -63,5 +63,39 @@ namespace eCommerce.WebUI.Controllers
 
             return RedirectToAction("ProductList");
         }
+
+        //Currently not deleting from database and causing it to error out
+        public ActionResult DeleteProduct(int id)
+        {
+            Product product = products.GetById(id);
+
+            return View(product);
+        }
+
+        [HttpPost]
+        public ActionResult DeleteProduct(Product product)
+        {
+            products.Delete(product);
+            products.Commit();
+
+            return RedirectToAction("ProductList");
+        }
+
+        //Directs to the details page, but edit is broken on this page
+        public ActionResult DetailsProduct(int id)
+        {
+            Product product = products.GetById(id);
+
+            return View(product);
+        }
+
+        [HttpPost]
+        public ActionResult DetailsProduct(Product product)
+        {
+            products.Update(product);
+            products.Commit();
+
+            return RedirectToAction("ProductList");
+        }
     }
 }
