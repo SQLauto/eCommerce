@@ -21,7 +21,6 @@ namespace eCommerce.WebUI.Controllers
             this.products = products;
         }
 
-
         public ActionResult Index()
         {
             //CustomerRepository customers = new CustomerRepository(new DataContext());
