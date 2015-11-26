@@ -81,8 +81,6 @@ D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebU
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.DAL.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.Model.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.Services.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.SqlServer.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -96,10 +94,6 @@ D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebU
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Web.Infrastructure.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Newtonsoft.Json.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Owin.dll
@@ -118,7 +112,6 @@ D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebU
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.Services.pdb
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.xml
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
@@ -148,3 +141,10 @@ D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebU
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.csprojResolveAssemblyReference.cache
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.xml
