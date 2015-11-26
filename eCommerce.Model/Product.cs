@@ -17,7 +17,6 @@ namespace eCommerce.Model
         public string ImageUrl { get; set; }
 
         public decimal Price { get; set; }
-
         public decimal CostPrice { get; set; }
     }
 }

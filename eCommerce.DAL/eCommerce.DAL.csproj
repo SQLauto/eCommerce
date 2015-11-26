@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A849A405-F4C4-4316-B1A7-5DE45FA9BFC7}</ProjectGuid>
+    <ProjectGuid>{CF828B57-BD94-4217-BAFA-04E0DDDCFFF2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>eCommerce.DAL</RootNamespace>
@@ -30,13 +30,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
-    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -49,34 +47,63 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\DataContext.cs" />
-    <Compile Include="Migrations\201511251333546_Initial.cs" />
-    <Compile Include="Migrations\201511251333546_Initial.Designer.cs">
-      <DependentUpon>201511251333546_Initial.cs</DependentUpon>
+    <Compile Include="Migrations\201411141604243_Initial.cs" />
+    <Compile Include="Migrations\201411141604243_Initial.Designer.cs">
+      <DependentUpon>201411141604243_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201411141605385_AddCostPrice.cs" />
+    <Compile Include="Migrations\201411141605385_AddCostPrice.Designer.cs">
+      <DependentUpon>201411141605385_AddCostPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201411210935039_AddedBasket.cs" />
+    <Compile Include="Migrations\201411210935039_AddedBasket.Designer.cs">
+      <DependentUpon>201411210935039_AddedBasket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201411231401384_deleteoldbasket.cs" />
+    <Compile Include="Migrations\201411231401384_deleteoldbasket.Designer.cs">
+      <DependentUpon>201411231401384_deleteoldbasket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201411231402215_addnewbasketstuff.cs" />
+    <Compile Include="Migrations\201411231402215_addnewbasketstuff.Designer.cs">
+      <DependentUpon>201411231402215_addnewbasketstuff.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\BasketRepository.cs" />
     <Compile Include="Repositories\CustomerRepository.cs" />
     <Compile Include="Repositories\Orders.cs" />
     <Compile Include="Repositories\ProductRepository.cs" />
     <Compile Include="Repositories\RepositoryBase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\eCommerce.Contracts\eCommerce.Contracts.csproj">
-      <Project>{b925d23b-c400-4c50-a704-05b651936506}</Project>
-      <Name>eCommerce.Contracts</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\eCommerce.Model\eCommerce.Model.csproj">
-      <Project>{15eb01ee-06a9-41f4-99cc-03150c72412e}</Project>
-      <Name>eCommerce.Model</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201511251333546_Initial.resx">
-      <DependentUpon>201511251333546_Initial.cs</DependentUpon>
+    <ProjectReference Include="..\eCommerce.Contracts\eCommerce.Contracts.csproj">
+      <Project>{7ff7bcf7-077c-44bc-82bd-5cf47eb934e0}</Project>
+      <Name>eCommerce.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\eCommerce.Model\eCommerce.Model.csproj">
+      <Project>{3fd5ae06-0f44-4666-9f2c-5543d1a57533}</Project>
+      <Name>eCommerce.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201411141604243_Initial.resx">
+      <DependentUpon>201411141604243_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201411141605385_AddCostPrice.resx">
+      <DependentUpon>201411141605385_AddCostPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201411210935039_AddedBasket.resx">
+      <DependentUpon>201411210935039_AddedBasket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201411231401384_deleteoldbasket.resx">
+      <DependentUpon>201411231401384_deleteoldbasket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201411231402215_addnewbasketstuff.resx">
+      <DependentUpon>201411231402215_addnewbasketstuff.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

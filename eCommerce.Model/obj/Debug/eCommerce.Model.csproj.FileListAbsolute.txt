@@ -1,5 +1,10 @@
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb

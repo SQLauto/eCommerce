@@ -25,15 +25,13 @@ namespace eCommerce.WebUI.Controllers
             return View();
         }
 
-        public ActionResult ProductList()
-        {
+        public ActionResult ProductList() {
             var model = products.GetAll();
 
             return View(model);
         }
 
-        public ActionResult CreateProduct()
-        {
+        public ActionResult CreateProduct() {
             var model = new Product();
 
             return View(model);
@@ -42,6 +40,7 @@ namespace eCommerce.WebUI.Controllers
         [HttpPost]
         public ActionResult CreateProduct(Product product)
         {
+
             products.Insert(product);
             products.Commit();
 
@@ -51,6 +50,7 @@ namespace eCommerce.WebUI.Controllers
         public ActionResult EditProduct(int id)
         {
             Product product = products.GetById(id);
+
 
             return View(product);
         }
@@ -64,38 +64,6 @@ namespace eCommerce.WebUI.Controllers
             return RedirectToAction("ProductList");
         }
 
-        //Currently not deleting from database and causing it to error out
-        public ActionResult DeleteProduct(int id)
-        {
-            Product product = products.GetById(id);
-
-            return View(product);
-        }
-
-        [HttpPost]
-        public ActionResult DeleteProduct(Product product)
-        {
-            products.Delete(product);
-            products.Commit();
-
-            return RedirectToAction("ProductList");
-        }
-
-        //Directs to the details page, but edit is broken on this page
-        public ActionResult DetailsProduct(int id)
-        {
-            Product product = products.GetById(id);
-
-            return View(product);
-        }
-
-        [HttpPost]
-        public ActionResult DetailsProduct(Product product)
-        {
-            products.Update(product);
-            products.Commit();
-
-            return RedirectToAction("ProductList");
-        }
+        
     }
 }

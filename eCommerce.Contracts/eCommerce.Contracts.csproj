@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B925D23B-C400-4C50-A704-05B651936506}</ProjectGuid>
+    <ProjectGuid>{7FF7BCF7-077C-44BC-82BD-5CF47EB934E0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>eCommerce.DAL</RootNamespace>
+    <RootNamespace>eCommerce.Contracts</RootNamespace>
     <AssemblyName>eCommerce.Contracts</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

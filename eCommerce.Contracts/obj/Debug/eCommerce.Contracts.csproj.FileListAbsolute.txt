@@ -1,5 +1,10 @@
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojResolveAssemblyReference.cache
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
-d:\users\blanceca\documents\visual studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojResolveAssemblyReference.cache
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb
