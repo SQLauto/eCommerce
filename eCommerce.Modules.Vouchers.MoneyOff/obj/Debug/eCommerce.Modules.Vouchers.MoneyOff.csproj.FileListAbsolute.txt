@@ -1,0 +1,27 @@
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.dll
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.csprojResolveAssemblyReference.cache
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb

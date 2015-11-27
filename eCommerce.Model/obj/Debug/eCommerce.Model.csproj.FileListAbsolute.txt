@@ -3,38 +3,19 @@ C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommer
 C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
 C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
 C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\bretthargreaves\Desktop\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.dll
+D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.pdb
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
 D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll.config
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.SqlServer.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.Helpers.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.Mvc.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.Razor.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.WebPages.Deployment.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.WebPages.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.WebPages.Razor.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\WebActivatorEx.dll
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.SqlServer.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.Helpers.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.Mvc.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.Razor.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.WebPages.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.WebPages.Deployment.xml
-D:\Users\blanceca\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\System.Web.WebPages.Razor.xml
