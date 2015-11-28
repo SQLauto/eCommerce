@@ -80,6 +80,7 @@ namespace eCommerce.Services
             HttpCookie cookie = httpContext.Request.Cookies.Get(BasketSessionName);
             Basket basket;
 
+
             Guid basketId;
 
             if (cookie != null)
@@ -138,9 +139,7 @@ namespace eCommerce.Services
                 basketVoucher.VoucherId = voucher.VoucherId;
                 basket.AddBasketVoucher(basketVoucher);
             }
-
         }
-
 
         public void PercentOff(Voucher voucher, Basket basket, BasketVoucher basketVoucher)
         {
@@ -152,8 +151,6 @@ namespace eCommerce.Services
                 basketVoucher.VoucherId = voucher.VoucherId;
                 basket.AddBasketVoucher(basketVoucher);
             }
-
-           
         }
     }
 }
